@@ -68,4 +68,16 @@ Then push the changes to GitHub
 git push origin main
 ```
 
-You are all done. Thanks.
+## Step 5
+The next time you upload any file, before anything, follow these instructions
+
+```git bash
+cd "C:/project/Light-Pollution"
+```
+```git bash
+git pull origin main
+```
+Then upload files as instructed in the previous steps,
+That way you can avoid any kind of error messages and deleting files unintentionally.
+
+Thanks for helping, this means a lot.
