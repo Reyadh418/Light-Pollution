@@ -11,37 +11,37 @@ This a collaboartion research on the ways science and technology can be used to 
 
 ## Step 1
 Create a new folder to keep everything organized on the home directory
-Open Command Prompt(CMD) or Git Bash(Comes along with Git)
+Open Command Prompt(CMD) or Powershell(Comes along with Git)
 
 1. Go to home directory
-```git bash
+```Powershell
 cd /
 ```
 
 2. Create a folder named "project"
-```git bash
+```Powershell
 mkdir project
 ```
 
 3. Get inside the Project folder
-```git bash
+```Powershell
 cd project
 ``` 
 ## Step 2
 Inside the project folder, clone the repository
 
-```git bash
+```Powershell
 git clone git@github.com:Reyadh418/Light-Pollution.git
 ```
 or
-```git bash
+```Powershell
 git clone https://github.com/Reyadh418/Light-Pollution.git
 ```
   depending on your git configuration.
 
 
 Then get inside the repository
-```git bash
+```Powershell
 cd Light-Pollution
 ```
 
@@ -51,30 +51,30 @@ Go to your "This PC" and open the folder 'project' and then open Light-Pollution
 Then move the files to the correct folder.
 
 ## Step 4
-Open the Git Bash window and make sure you are inside the light pollution folder inside bash as well
+Open the Powershell window and make sure you are inside the light pollution folder inside bash as well
 
 Stage the changes
-```git bash
+```Powershell
 git add .
 ```
 Commit the changes
-```git bash
+```Powershell
 git commit -m "This is your commit message"
 ```
 **Note: Use the commit message area to declare what you uploaded and where you found it.**
 
 Then push the changes to GitHub
-```git bash
+```Powershell
 git push origin main
 ```
 
 ## Step 5
 The next time you upload any file, before anything, follow these instructions
 
-```git bash
+```Powershell
 cd "C:/project/Light-Pollution"
 ```
-```git bash
+```Powershell
 git pull origin main
 ```
 Then upload files as instructed in the previous steps,
