@@ -1,6 +1,6 @@
 # Light-Pollution
 
-This a collaboartion research on the ways science and technology can be used to reduce **Light Pollution** and save enegry on the same process.
+This a collaboration research on the ways science and technology can be used to reduce **Light Pollution** and save enegry in the same process.
 
 # Collaborators
 
@@ -15,7 +15,7 @@ Open Command Prompt(CMD) or Powershell(Comes along with Git)
 
 1. Go to home directory
 ```Powershell
-cd /
+cd "C:\"
 ```
 
 2. Create a folder named "project"
@@ -77,7 +77,7 @@ cd "C:/project/Light-Pollution"
 ```Powershell
 git pull origin main
 ```
-Then upload files as instructed in the previous steps,
+After the pull you can follow step 3 and 4 to upload files safely,
 That way you can avoid any kind of error messages and deleting files unintentionally.
 
 Thanks for helping, this means a lot.
