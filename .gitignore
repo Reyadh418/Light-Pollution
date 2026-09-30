@@ -1,2 +1,15 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.synctex.gz
+*.toc
 finalPaper.tex
+
+
+# Keep compiled PDF ignored if desired as build output
 Light_Pollution.pdf
