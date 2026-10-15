@@ -1,6 +1,6 @@
 # An IoT-Based Infrastructure Model for Reducing Urban Light Pollution: Empirical Assessment and System Design in Dhaka
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://zenodo.org/)
+[![DOI](https://zenodo.org/badge/1263758734.svg)](https://doi.org/10.5281/zenodo.23399530)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Open Access](https://img.shields.io/badge/Open_Access-FAIR_Compliant-blue.svg)](https://www.go-fair.org/fair-principles/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
