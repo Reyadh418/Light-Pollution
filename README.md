@@ -105,30 +105,8 @@ Light-Pollution/
 │   ├── sensor_architecture_matrix.pdf   # 7-modality sensor selection and logic matrix (Table 3)
 │   ├── priority_arbitration_hierarchy.pdf # Deterministic 6-tier conflict-resolution hierarchy (Table 5)
 │   └── smart_lamppost_data_dictionary.pdf # Multifunctional smart lamppost engineering specifications
-│
-├── docs/                                # Supplementary project documentation
-│   ├── README.md                        # Index of presentations and notes
-│   ├── AlokBarta_overview.pptx          # AlokBarta project presentation (32 slides)
-│   ├── Presentation_Sobujbag.pptx       # Field presentation in Sobujbag neighborhood
-│   ├── DemoPaper.docx                   # Early exploratory working draft
-│   ├── Factsheet_light_pollution.pdf    # Light pollution factsheet
-│   ├── Light_Pollution_Wastes_Energy.pdf# Energy and cost waste documentation
-│   └── Work_Plan_scanned.pdf            # Scanned field survey schedules and notes
-│
-├── media/                               # Visual assets and prototype photography
-│   ├── README.md                        # Media catalog
-│   ├── prototype_field_audit.jpeg       # In-situ photometric survey and prototype setup
-│   ├── smart_street_diagram_1.png       # Smart lamppost topology diagram
-│   ├── smart_street_diagram_2.png       # Rolling luminescence bubble schematic
-│   ├── solar_street_light_features.jpg  # Solar street light cutoff shielding
-│   ├── motion_detector_streetlight.webp # Integrated microwave radar & PIR luminaire
-│   ├── street_luminaire_geometry.png    # Photometric cutoff angle illustration
-│   ├── smart_city_lighting_concept.avif # Smart city low-skyglow urban envelope
-│   └── reference_thumbnails/            # Early design reference thumbnails
-│
 └── references/                          # Academic literature bibliography
-    ├── REFERENCES.md                    # Bibliographic index with DOIs and access links
-    └── literature/                      # Consulted literature PDFs (archived for research review)
+    └── REFERENCES.md                    # Bibliographic index with DOIs and official access links
 ```
 
 ---

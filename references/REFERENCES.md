@@ -5,7 +5,7 @@ This directory documents the academic literature, technical standards, and exter
 by Md Reyad Hasan and Ishrat Jahan Riya.
 
 > [!NOTE]
-> The PDF files in this directory are third-party published works archived strictly for local research and literature review purposes. Copyright resides with their respective publishers and authors. For public redistribution or repository mirroring (such as on Zenodo), users should access these works via their permanent Digital Object Identifiers (DOIs) or official publication URLs listed below.
+> All referenced literature and technical standards are indexed below with their permanent Digital Object Identifiers (DOIs) and official publication URLs for direct open access and citation.
 
 ---
 
