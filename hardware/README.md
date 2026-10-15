@@ -40,3 +40,4 @@ To avoid optical and thermal cross-interference between sensors and luminaires, 
 - **Communication Protocol:** OSI Layer-2 ESP-NOW peer-to-peer broadcasts ($<10\text{ ms}$ latency; restricted vehicular slip to $10\text{--}13\text{ cm}$ at $60\text{--}80\text{ km/h}$).
 - **Energy Baseline:** 10% eco-mode baseline ($\text{PWM} = 26$) during vacant periods; dynamic $30\text{--}40\text{ m}$ look-ahead bubble ($100\%$ PWM) ahead of approaching vehicles; $40\%\text{--}50\%$ localized safety envelope for pedestrians.
 - **Fail-Safe Mechanism:** Hardware watchdog with automatic $100\%$ full-beam fallback ($\text{PWM} = 255$) upon catastrophic sensor-bus hang or processor stall.
+

@@ -32,3 +32,4 @@ The full paper includes 16 formal academic citations spanning:
 - **Ecological & Circadian Biology:** Gaston et al. (*Biological Reviews* 2013) [[doi:10.1111/brv.12036](https://doi.org/10.1111/brv.12036)], Cho et al. (*Chronobiology International* 2015) [[doi:10.3109/07420528.2015.1073158](https://doi.org/10.3109/07420528.2015.1073158)].
 - **Photometric Engineering Standards:** IES RP-8-22 (*ANSI/IES Recommended Practice: Lighting Roadway and Parking Facilities*), CIE 115:2010 (*Lighting of Roads for Motor and Pedestrian Traffic*), CIE 150:2017 (*Guide on Limitation of Obtrusive Light*).
 - **Embedded Edge AI & Protocols:** Espressif ESP-NOW Layer-2 Protocol User Guide, ESP32-S3 Hardware Series Datasheet, Ultralytics YOLOv8, MobileNet (Howard et al., 2017), TinyML Benchmarking (Banbury et al., 2021).
+

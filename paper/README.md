@@ -41,3 +41,4 @@ pdflatex finalPaper.tex
 ```
 
 *(Two passes are recommended to properly resolve all internal section labels, mathematical cross-references, and Table IDs).*
+

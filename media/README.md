@@ -18,3 +18,4 @@ by Md Reyad Hasan and Ishrat Jahan Riya.
 | [`street_luminaire_geometry.png`](file:///c:/Code/Light-Pollution/media/street_luminaire_geometry.png) | 972 × 353 PNG | Photometric beam distribution diagram comparing unshielded, semi-cutoff, and full-cutoff luminaire mounting profiles (originally `1367130124_30152.png`). |
 | [`smart_city_lighting_concept.avif`](file:///c:/Code/Light-Pollution/media/smart_city_lighting_concept.avif) | 740 × 844 AVIF | Conceptual illustration of interconnected smart city lighting infrastructure with low-skyglow urban envelopes. |
 | `reference_thumbnails/` | JPEGs | Reference thumbnails and web figures consulted during early design iterations (`images (5).jpeg`, `images (6).jpeg`, `images (7).jpeg`). |
+

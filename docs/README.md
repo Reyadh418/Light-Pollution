@@ -16,3 +16,4 @@ by Md Reyad Hasan and Ishrat Jahan Riya.
 | [`Factsheet_light_pollution.pdf`](file:///c:/Code/Light-Pollution/docs/Factsheet_light_pollution.pdf) | PDF Factsheet | Reference summary on artificial light at night (ALAN), ecological impacts, and circadian disruption mechanisms. |
 | [`Light_Pollution_Wastes_Energy.pdf`](file:///c:/Code/Light-Pollution/docs/Light_Pollution_Wastes_Energy.pdf) | PDF Guide | Educational brief on municipal electricity waste, carbon emissions, and fiscal costs of unshielded streetlighting. |
 | [`Work_Plan_scanned.pdf`](file:///c:/Code/Light-Pollution/docs/Work_Plan_scanned.pdf) | Scanned Document (8 pages) | Scanned handwritten project notes, field measurement schedules, and prototype wiring sketches (originally `IMG_4699.pdf`). |
+
