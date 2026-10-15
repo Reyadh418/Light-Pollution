@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you utilize this dataset, system design, or paper in your research, please cite it as below."
+title: "An IoT-Based Infrastructure Model for Reducing Urban Light Pollution: Empirical Assessment and System Design in Dhaka"
+abstract: >-
+  This repository provides an empirical baseline of urban light pollution in Dhaka,
+  Bangladesh, comprising 220 in-situ photometric measurements across 13 functional urban
+  sectors alongside 12 controlled benchtop luminaire experiments. To eliminate continuous
+  nocturnal over-illumination without compromising public safety, an autonomous, decentralized
+  IoT smart streetlight infrastructure is developed. The system features a vertically stratified
+  four-zone node architecture managed by an ESP32-S3 Sense microcontroller fusing seven sensing
+  modalities (TinyML edge vision, microwave Doppler radar, PIR array, BH1750 ambient light sensor,
+  BME280 weather module, DS3231 RTC, and INA219 power telemetry). Nodes broadcast target velocity
+  and heading via sub-10 ms OSI Layer-2 ESP-NOW frames to project an illuminated look-ahead safety
+  bubble 30-40 m ahead of approaching vehicles while maintaining a 10% eco-baseline across vacant
+  roadway segments.
+authors:
+  - family-names: Hasan
+    given-names: Md Reyad
+    email: reyadh418@gmail.com
+    affiliation: "Government Science College, Dhaka, Bangladesh"
+  - family-names: Riya
+    given-names: Ishrat Jahan
+    email: ishratjahanriya123@gmail.com
+    affiliation: "Mavenwood International School, Dhaka, Bangladesh"
+date-released: "2026-08-23"
+license: CC-BY-4.0
+repository-code: "https://github.com/Reyadh418/Light-Pollution"
+keywords:
+  - "light pollution"
+  - "smart streetlighting"
+  - "artificial light at night"
+  - "edge ai"
+  - "sensor fusion"
+  - "esp-now"
+  - "esp32-s3"
+  - "tinyml"
+  - "dhaka"
+  - "urban sustainability"
+  - "energy efficiency"
+  - "photometry"
+  - "doppler radar"
+type: dataset

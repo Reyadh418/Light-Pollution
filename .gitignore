@@ -1,15 +1,35 @@
-# LaTeX build artifacts
-*.aux
-*.bbl
-*.blg
-*.fls
-*.fdb_latexmk
-*.log
-*.out
-*.synctex.gz
-*.toc
-finalPaper.tex
+# LaTeX build artifacts (ignore auxiliary build outputs across all subdirectories)
+**/*.aux
+**/*.bbl
+**/*.blg
+**/*.fls
+**/*.fdb_latexmk
+**/*.log
+**/*.out
+**/*.synctex.gz
+**/*.toc
+**/*.nav
+**/*.snm
+**/*.vrb
 
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
 
-# Keep compiled PDF ignored if desired as build output
-Light_Pollution.pdf
+# Operating system metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Office and editor temporary lock files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+*.swp
+*.swo
+*~

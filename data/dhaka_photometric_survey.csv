@@ -1,0 +1,215 @@
+record_id,sector,site_name,area,measurement_position,light_color,illuminance_lower_lx,illuminance_higher_lx,illuminance_average_lx
+DH-HOSP-001,Hospital,DPRC hospital,Shyamoli Dhaka,Outdoor,Yellow,122.0,210.0,160.0
+DH-HOSP-002,Hospital,Bangladesh Specialized Hospital (BSH),"Mirpur Road, Dhaka",Entry,Unspecified,1000.0,1224.0,1150.0
+DH-HOSP-003,Hospital,,"Mirpur Road, Dhaka",Front of emergency,White,508.0,640.0,560.0
+DH-HOSP-004,Hospital,,"Mirpur Road, Dhaka",Waiting Section,Unspecified,400.0,700.0,530.0
+DH-HOSP-005,Hospital,,"Mirpur Road, Dhaka",Reception,Unspecified,800.0,1300.0,1120.0
+DH-HOSP-006,Hospital,,"Mirpur Road, Dhaka",Sample Collection,Unspecified,347.0,843.0,400.0
+DH-HOSP-007,Hospital,Dhaka Central International Medical College & Hospital,Moham-madpur Dhaka,Outdoor,Unspecified,48.0,113.0,80.0
+DH-HOSP-008,Hospital,Sohrawardy Medical College,Shere Bangla Nagar,Entry,Unspecified,128.0,160.0,144.0
+DH-HOSP-009,Hospital,,Shere Bangla Nagar,Orthopaedic & Trauma Dept.,Unspecified,73.0,136.0,110.0
+DH-HOSP-010,Hospital,,Shere Bangla Nagar,বহির্বিভাগ corridor,Unspecified,30.0,62.3,46.0
+DH-HOSP-011,Hospital,,Shere Bangla Nagar,Medical Oncology,Unspecified,33.0,85.0,49.0
+DH-HOSP-012,Hospital,,Shere Bangla Nagar,Emergency,Unspecified,133.0,242.0,188.0
+DH-HOSP-013,Hospital,,Shere Bangla Nagar,Ward-418,Unspecified,142.0,185.0,163.0
+DH-HOSP-014,Hospital,,Shere Bangla Nagar,Ward-421,Unspecified,220.0,331.0,272.0
+DH-ROAD-015,Roads,Road 11,"Kallyanpur, Dhaka",Middle Road,White,40.0,70.0,56.0
+DH-ROAD-016,Roads,Road 3,"Kallyanpur, Dhaka",General Exterior,Unspecified,40.0,122.0,90.0
+DH-ROAD-017,Roads,Road 2 Junction,"Kallyanpur, Dhaka",General Exterior,Unspecified,40.0,225.0,80.0
+DH-ROAD-018,Roads,Main Road,"Kallyanpur, Dhaka",General Exterior,Unspecified,150.0,500.0,400.0
+DH-ROAD-019,Roads,Kallyanpur Bus Stand,"Kallyanpur, Dhaka",General Exterior,Unspecified,10.0,50.0,25.0
+DH-ROAD-020,Roads,Hanif KTC Bus Ticket Counter,"Kallyanpur, Dhaka",outdoor,Unspecified,50.0,90.0,80.0
+DH-ROAD-021,Roads,Holy Lane,"Shyamoli, Dhaka",Middle road,Unspecified,20.0,40.0,30.0
+DH-ROAD-022,Roads,Hanif Flyover,"Jatrabari, Dhaka",From bus seat Level,Unspecified,70.0,226.0,115.0
+DH-ROAD-023,Roads,Hanif Flyover Toll,"Jatrabari, Dhaka",General Exterior,Unspecified,40.0,119.5,78.0
+DH-ROAD-024,Roads,Golapbag - Saydabad Road,"Saydabad, Dhaka",General Exterior,White+Yellow,13.0,79.5,50.0
+DH-ROAD-025,Roads,Rural Road,"Chauddagram, Cumilla",Middle road,White,5.0,15.0,13.0
+DH-ROAD-026,Roads,Training Complex Road,"National Scout Training Centre, Gazipur",General Exterior,Unspecified,6.3,25.2,13.0
+DH-ROAD-027,Roads,Sebabratee Circle,"National Scout Training Centre, Gazipur",General Exterior,Unspecified,10.0,39.5,28.0
+DH-ROAD-028,Roads,Cafeteria Road,"National Scout Training Centre, Gazipur",General Exterior,Unspecified,10.7,70.0,25.0
+DH-ROAD-029,Roads,Gonovobon Road,"Shere-Bangla Nagar, Dhaka",Footpath,Yellow,43.0,57.0,50.0
+DH-ROAD-030,Roads,Adabar Police Station Circle,"Mohammadpur, Dhaka",Footpath,White,100.0,196.0,140.0
+DH-ROAD-031,Roads,Ring Road,"Mohammadpur, Dhaka",General Exterior,Unspecified,34.0,60.0,45.0
+DH-ROAD-032,Roads,Asad Avenue,"Mohammadpur, Dhaka",General Exterior,Unspecified,38.0,69.0,50.0
+DH-ROAD-033,Roads,Asad Gate,"Mohammadpur, Dhaka",General Exterior,Unspecified,50.0,88.0,63.0
+DH-ROAD-034,Roads,Chandrima uddan circle,"Shere Bangla Nagar, Dhaka",Footpath,Unspecified,50.0,88.0,73.0
+DH-ROAD-035,Roads,Gonovobon school road,"Shere Bangla Nagar, Dhaka",General Exterior,Unspecified,43.0,57.0,50.0
+DH-FOOD-036,Food & Restaurants,Gazi Biriyani House,"Shyamoli, Dhaka",Dining Table,White,550.0,650.0,600.0
+DH-FOOD-037,Food & Restaurants,Tehari Ghor Sobhanbag (shyamoli section),"Shyamoli, Dhaka",General Exterior,Unspecified,400.0,550.0,500.0
+DH-FOOD-038,Food & Restaurants,Coffee House,"Mohammadpur, Dhaka",Outdoor,Unspecified,80.0,298.0,130.0
+DH-FOOD-039,Food & Restaurants,Cafeteria of National Scout Training Centre,"Mouchak, Gazipur",Dining Table,Unspecified,467.0,760.0,650.0
+DH-FOOD-040,Food & Restaurants,Foodcourt of Bashundhara Shopping Complex,"Kawran Bazar, Dhaka",General Exterior,"Yellow, White",477.0,538.0,510.0
+DH-FOOD-041,Food & Restaurants,Vikrampur Sweets,"Shyamoli, Dhaka",Outdoor,White,379.0,560.0,450.0
+DH-FOOD-042,Food & Restaurants,Aamal Snacks & Sweets,"Shyamoli, Dhaka",General Exterior,White-Yellow,225.0,334.7,250.0
+DH-FOOD-043,Food & Restaurants,Khana’s,"Tajmahal Road, Mohammadpur, Dhaka",General Exterior,Yellow,193.0,216.0,205.0
+DH-FOOD-044,Food & Restaurants,Redres Waffles,"Tajmahal Road, Mohammadpur, Dhaka",General Exterior,Light Yellow,133.0,205.0,170.0
+DH-FOOD-045,Food & Restaurants,Amal Faction,"Tajmahal Road, Mohammadpur, Dhaka",General Exterior,Yellow + White,314.0,750.0,500.0
+DH-FOOD-046,Food & Restaurants,Shuchona food shop (Footpath),"Tajmahal Road, Mohammadpur, Dhaka",Indoor,Unspecified,200.0,533.0,290.0
+DH-FOOD-047,Food & Restaurants,Khana Pina,"Tajmahal Road, Mohammadpur, Dhaka",Outdoor,Yellow,202.0,403.0,303.0
+DH-FOOD-048,Food & Restaurants,Tasty Treat,"Nurjahan Road, Mohammadpur, Dhaka",General Exterior,Unspecified,90.0,188.0,137.0
+DH-FOOD-049,Food & Restaurants,Food Company,"Nurjahan Road, Mohammadpur, Dhaka",Indoor,White,570.0,741.0,660.0
+DH-FOOD-050,Food & Restaurants,Meena Sweets,"Nurjahan Road, Mohammadpur, Dhaka",Outdoor,Yellow,356.0,480.0,420.0
+DH-FOOD-051,Food & Restaurants,Shah Sweets,"Nurjahan Road, Mohammadpur, Dhaka",General Exterior,White Yellow,125.0,323.0,224.0
+DH-FOOD-052,Food & Restaurants,Singapore Juice Shop,"Town Hall, Mohammadpur, Dhaka",Indoor,White,1852.0,4375.0,3200.0
+DH-FOOD-053,Food & Restaurants,Brahmanbaria Juice Bar,"Town Hall, Mohammadpur, Dhaka",General Exterior,Unspecified,102.0,244.0,175.0
+DH-FOOD-054,Food & Restaurants,Freshop (Juice),"Town Hall, Mohammadpur, Dhaka",General Exterior,Unspecified,902.0,1280.0,1120.0
+DH-FOOD-055,Food & Restaurants,Local Coconut shop,"Town Hall, Mohammadpur, Dhaka",General Exterior,Unspecified,200.0,340.0,280.0
+DH-FOOD-056,Food & Restaurants,Ajwah,"Town Hall, Mohammadpur, Dhaka",Outdoor,Light Yellow,370.0,587.0,415.0
+DH-FOOD-057,Food & Restaurants,Vaggokul Sweets,"Town Hall, Mohammadpur, Dhaka",General Exterior,White,380.0,410.0,400.0
+DH-FOOD-058,Food & Restaurants,Random Restaurant,"Mohammadpur, Dhaka",General Exterior,Yellow + White + pink,753.0,905.0,840.0
+DH-FOOD-059,Food & Restaurants,Mirpur Shopping Centre Food court,"Mohammadpur, Dhaka",Different Angles,Yellow+White,123.0,1792.0,568.0
+DH-FOOD-060,Food & Restaurants,Price Bakery,"Mohammadpur, Dhaka",General Exterior,White,576.9,994.6,756.7
+DH-FOOD-061,Food & Restaurants,Cantine of Sohrawardy Medical College,"Shere Bangla Nagar, Dhaka",General Exterior,Unspecified,110.0,160.0,140.0
+DH-FASH-062,Fashion,Illiyen,"Bashundhara, Kawran Bazar, Dhaka",Different angles,Yellow,250.0,4000.0,470.0
+DH-FASH-063,Fashion,Cats Eye,"Bashundhara, Kawran Bazar, Dhaka",General Exterior,White,580.0,4493.0,2900.0
+DH-FASH-064,Fashion,Infinity,"Bashundhara, Kawran Bazar, Dhaka",General Exterior,Yellow,678.0,4925.0,2000.0
+DH-FASH-065,Fashion,Easy Fashions,"Bashundhara, Kawran Bazar, Dhaka",General Exterior,Unspecified,980.0,4600.0,2300.0
+DH-FASH-066,Fashion,Twelve,"Bashundhara, Kawran Bazar, Dhaka",General Exterior,White,800.0,1900.0,1043.0
+DH-FASH-067,Fashion,Local Watchshop,"Muktijoddha Plaza Shopping Mall, Mirpur-1, Dhaka",Selling passage,Unspecified,171.0,789.0,521.0
+DH-FASH-068,Fashion,All style shoes,"Muktijoddha Plaza Shopping Mall, Mirpur-1, Dhaka",outdoor,Unspecified,668.0,2559.0,1613.5
+DH-FASH-069,Fashion,Arfan shoes,"Muktijoddha Plaza Shopping Mall, Mirpur-1, Dhaka",Selling Passage,Unspecified,1100.0,2700.0,1830.0
+DH-FASH-070,Fashion,Fashion Favour(Men Dresses),"Muktijoddha Plaza Shopping Mall, Mirpur-1, Dhaka",General Exterior,Yellow,717.0,1772.0,1300.0
+DH-FASH-071,Fashion,VIP Gallery(Suitcase),"Muktijoddha Plaza Shopping Mall, Mirpur-1, Dhaka",General Exterior,White,16.6,511.0,151.0
+DH-FASH-072,Fashion,Bismillah Fashion,"Muktijoddha Plaza Shopping Mall, Mirpur-1, Dhaka",General Exterior,Unspecified,45.0,350.0,197.5
+DH-FASH-073,Fashion,Bismillah Undergarments,"Muktijoddha Plaza Shopping Mall, Mirpur-1, Dhaka",General Exterior,Unspecified,213.0,2131.0,1400.0
+DH-FASH-074,Fashion,SR Point Men's Fashion,"Muktijoddha Plaza Shopping Mall, Mirpur-1, Dhaka",General Exterior,Golden Yellow,1221.0,2797.0,1900.0
+DH-FASH-075,Fashion,Bata Shoes,"Shyamoli, Dhaka",Outdoor,Yellow,200.0,350.0,250.0
+DH-FASH-076,Fashion,Shikdar Footwear,"Mohammadpur, Dhaka",General Exterior,White,514.0,868.0,700.0
+DH-FASH-077,Fashion,Amal Faction,"Mohammadpur, Dhaka",General Exterior,Yellow + White,314.0,750.0,500.0
+DH-FASH-078,Fashion,Lotto,"Mohammadpur, Dhaka",General Exterior,White,113.0,490.0,301.5
+DH-FASH-079,Fashion,Eastasy,"Mohammadpur, Dhaka",General Exterior,Yellow+White+Pink,753.0,905.0,750.0
+DH-FASH-080,Fashion,B2win,"Mohammadpur, Dhaka",General Exterior,White,865.0,1505.0,1270.0
+DH-FASH-081,Fashion,Bismillah fabrics,"Mohammadpur, Dhaka",General Exterior,Unspecified,268.0,604.0,450.0
+DH-FASH-082,Fashion,Lubna Crokaris,"Mohammadpur, Dhaka",General Exterior,Unspecified,1460.0,2068.0,1500.0
+DH-FASH-083,Fashion,Baby Jewelry,"Mohammadpur, Dhaka",General Exterior,Yellow,302.0,610.0,450.0
+DH-FASH-084,Fashion,Local jeweler shop,"Mohammadpur, Dhaka",General Exterior,White,2010.0,3025.0,2500.0
+DH-FASH-085,Fashion,clothes shop,"Mohammadpur, Dhaka",General Exterior,Unspecified,702.0,1901.0,1324.0
+DH-FASH-086,Fashion,Hasbi butics,"Mohammadpur, Dhaka",General Exterior,Unspecified,1800.0,2206.0,2010.0
+DH-FASH-087,Fashion,Local shoe shop,"Mohammadpur, Dhaka",General Exterior,Yellow + White,1400.0,3286.0,1900.0
+DH-FASH-088,Fashion,Local clothees shop,"Mohammadpur, Dhaka",General Exterior,White,301.0,685.0,400.0
+DH-FASH-089,Fashion,Arisha clothes Shop,"Mohammadpur, Dhaka",General Exterior,Unspecified,350.0,1050.0,450.0
+DH-FASH-090,Fashion,Z.H fashion,"Mohammadpur, Dhaka",General Exterior,Yellow,765.0,1163.0,850.0
+DH-FASH-091,Fashion,Lady Love,"Mohammadpur, Dhaka",General Exterior,White,600.0,777.0,700.0
+DH-FASH-092,Fashion,Rst yleroots,"Mohammadpur, Dhaka",General Exterior,Yellow,340.0,646.0,510.0
+DH-FASH-093,Fashion,S M World Collection,Mirpur2,Different Angles,Yellow + White,1547.0,2599.0,2005.0
+DH-FASH-094,Fashion,White & White,Mirpur2,General Exterior,Yellow + White,1200.0,1800.0,1673.0
+DH-FASH-095,Fashion,Happiness Mart,Mirpur2,General Exterior,Yellow + White,1672.0,2791.0,1478.0
+DH-FASH-096,Fashion,Style in,Mirpur2,General Exterior,Yellow,489.0,1176.0,847.8
+DH-FASH-097,Fashion,Shoes Paradise,Mirpur2,General Exterior,Unspecified,688.0,1768.0,1098.0
+DH-FASH-098,Fashion,Shoes Plus,Mirpur2,General Exterior,Yellow + White,348.0,3121.0,1689.0
+DH-FASH-099,Fashion,Glorious Shoes & Fashions,Mirpur2,General Exterior,Unspecified,479.0,1738.0,689.0
+DH-FASH-100,Fashion,Aziyah Fashion-2,Mirpur2,General Exterior,Yellow,569.0,1827.0,1094.7
+DH-FASH-101,Fashion,Rongpolli,Mirpur2,General Exterior,Yellow + White,1978.0,4806.0,2108.0
+DH-FASH-102,Fashion,Rahat Fashion,Mirpur2,General Exterior,Unspecified,1780.0,2877.0,1689.0
+DH-FASH-103,Fashion,World Fashion,Mirpur2,General Exterior,White,1089.0,3798.0,1579.0
+DH-FASH-104,Fashion,Nilima Fashion House,Mirpur2,General Exterior,Unspecified,769.0,1809.0,998.7
+DH-FASH-105,Fashion,Mahima Point,Mirpur2,General Exterior,Yellow + White,598.0,1267.0,868.0
+DH-FASH-106,Fashion,sonia Boutique,Mirpur2,General Exterior,White,1509.0,2100.0,1646.0
+DH-FASH-107,Fashion,Anindito Boutique,Mirpur2,General Exterior,Unspecified,1716.0,3668.0,2291.0
+DH-FASH-108,Fashion,J.S. Trading,Mirpur2,General Exterior,Unspecified,1081.0,2896.0,1280.0
+DH-FASH-109,Fashion,Tamaz BD,Mirpur2,General Exterior,Yellow,1789.0,3568.0,2569.0
+DH-FASH-110,Fashion,Artisotex,Mirpur2,General Exterior,White,1741.0,3100.0,2498.0
+DH-FASH-111,Fashion,Lovely fasion,Mirpur2,General Exterior,Unspecified,2797.0,3679.0,2977.0
+DH-FASH-112,Fashion,Plus point,Mirpur2,General Exterior,Yellow + White,1135.0,3770.0,2787.0
+DH-FASH-113,Fashion,Noborupa,Mirpur2,General Exterior,White,1379.0,1796.0,1465.0
+DH-FASH-114,Fashion,Lady boutique,Mirpur2,General Exterior,Unspecified,2898.0,3791.0,3097.0
+DH-FASH-115,Fashion,Punjabi kuthir,Mirpur2,General Exterior,Unspecified,1063.0,1685.0,1367.0
+DH-FASH-116,Fashion,Prince punjabi,Mirpur2,General Exterior,Unspecified,857.0,1379.0,1001.1
+DH-FASH-117,Fashion,Yudo,Mirpur2,General Exterior,Yellow+White,463.0,2167.0,1560.0
+DH-FASH-118,Fashion,Live shop,Mirpur2,General Exterior,Unspecified,1601.0,3600.0,2209.0
+DH-FASH-119,Fashion,Menz corner,Mirpur2,General Exterior,White,1078.0,2096.0,1478.0
+DH-FASH-120,Fashion,Robe,Mirpur2,General Exterior,Yellow,1797.0,3689.0,2019.8
+DH-FASH-121,Fashion,Valor,Mirpur2,General Exterior,White,1839.0,2083.0,1986.7
+DH-FASH-122,Fashion,Footpath Local Van (shoe),"Shyamoli, Dhaka",Alligned with the van bench,Unspecified,100.0,150.0,130.0
+DH-FASH-123,Fashion,Footpath Local Van (Dress),"Shyamoli, Dhaka",General Exterior,Unspecified,150.0,220.0,170.0
+DH-SCHO-124,"School, Coaching & Learning",Physics Point,"Farmgate, Dhaka",From Teachers Table,White,70.0,140.0,110.0
+DH-SCHO-125,"School, Coaching & Learning",Dr. Abdul Alim's BioChem,"Kallyanpur, Dhaka",General Exterior,Unspecified,65.0,80.0,75.0
+DH-SCHO-126,"School, Coaching & Learning",Udvash Coaching Centre,"Shahbagh, Dhaka",General Exterior,Unspecified,185.0,215.0,200.0
+DH-SCHO-127,"School, Coaching & Learning",CA Bhaban,"National Scout training centre, Mouchak, Gazipur",General Exterior,Unspecified,13.3,19.5,14.0
+DH-SCHO-128,"School, Coaching & Learning",Session Hall,"National Scout training centre, Mouchak, Gazipur",Students Table,Unspecified,13.0,59.0,36.0
+DH-SCHO-129,"School, Coaching & Learning",Cub Bhaban,"National Scout training centre, Mouchak, Gazipur",Different Angles,Unspecified,28.0,68.0,48.0
+DH-SCHO-130,"School, Coaching & Learning",Kazi's Gym,"Mirpur-1, Dhaka",General Exterior,Yellow,30.0,79.0,45.0
+DH-SCHO-131,"School, Coaching & Learning",Scout Bhaban,"Kakrail, Dhaka",Outdoor,White,7.0,12.0,10.0
+DH-SCHO-132,"School, Coaching & Learning",Academic Building of Sohrawardy Medical College,"Shere Bangla Nagar, Dhaka",General Exterior,Unspecified,40.0,56.0,48.0
+DH-BUIL-133,Buildings & Residence,Room 1 (Siam),"Mohammadpur, Dhaka",Different Angles,White,16.0,36.0,20.0
+DH-BUIL-134,Buildings & Residence,Ladder (Siam),"Mohammadpur, Dhaka",General Exterior,Unspecified,20.0,73.0,30.0
+DH-BUIL-135,Buildings & Residence,Gate 1,"Kallyanpur, Dhaka",In front,Yellow,60.0,70.0,65.0
+DH-BUIL-136,Buildings & Residence,Lift 1,"Mirpur-1, Dhaka",Inside,White,22.0,48.0,36.0
+DH-BUIL-137,Buildings & Residence,parking of DPRC Hospital,"Shyamoli, Dhaka",Different Angles,Yellow,150.0,290.0,210.0
+DH-BUIL-138,Buildings & Residence,Main Gate of Shahid Sohrawardy Medical College,"Shere Bangla Nagar, Dhaka",General Exterior,White,20.0,36.6,29.0
+DH-BUIL-139,Buildings & Residence,"outdoor of Students Hall, Sohrawardy Medical","Shere Bangla Nagar, Dhaka",General Exterior,Unspecified,90.0,168.0,130.0
+DH-BUIL-140,Buildings & Residence,Outside of Lift of Sohrawardy Medical College,"Shere Bangla Nagar, Dhaka",Different Angles,Unspecified,62.0,85.0,74.0
+DH-BUIL-141,Buildings & Residence,Ladder of Sohrawardy Medical College,"Shere Bangla Nagar, Dhaka",Different Angles,Unspecified,33.0,62.0,50.0
+DH-BUIL-142,Buildings & Residence,Third Floor of Sohrawardy Medical College,"Shere Bangla Nagar, Dhaka",Different Angles,Unspecified,105.0,168.0,122.0
+DH-BUIL-143,Buildings & Residence,Students Hall Gate of Sohrawardy Medical College,"Shere Bangla Nagar, Dhaka",In front,Yellow,80.0,157.0,108.0
+DH-MOBI-144,Mobile & Accessories,Tecno (phone),"Mirpur-1, Dhaka",Different Angles,White,2500.0,3200.0,2960.0
+DH-MOBI-145,Mobile & Accessories,Xiaomi,"Mirpur-1, Dhaka",General Exterior,Unspecified,1200.0,2500.0,1710.0
+DH-MOBI-146,Mobile & Accessories,Mobile Bazar,"Mirpur-1, Dhaka",General Exterior,Unspecified,295.0,576.0,350.0
+DH-MOBI-147,Mobile & Accessories,Samsung,"Mirpur-1, Dhaka",General Exterior,Unspecified,1792.0,1852.0,2100.0
+DH-MOBI-148,Mobile & Accessories,Hallo gadget,"Mirpur-1, Dhaka",General Exterior,Yellow,1095.0,2170.0,1633.0
+DH-MOBI-149,Mobile & Accessories,A to Z electrics,"Mirpur-1, Dhaka",General Exterior,White,250.0,680.0,465.0
+DH-MOBI-150,Mobile & Accessories,Xiaomi,Mirpur 2,General Exterior,Unspecified,1270.0,2049.0,1478.0
+DH-MOBI-151,Mobile & Accessories,Oppo,Mirpur 2,General Exterior,Unspecified,1473.0,2177.0,1563.0
+DH-MOBI-152,Mobile & Accessories,Samsung,Mirpur 2,General Exterior,Unspecified,1389.0,1976.0,1467.0
+DH-MOBI-153,Mobile & Accessories,Realme,Mirpur 2,General Exterior,Unspecified,1099.0,1856.0,1373.0
+DH-MOBI-154,Mobile & Accessories,Vivo,Mirpur 2,General Exterior,Unspecified,1378.0,1974.0,1561.0
+DH-MOBI-155,Mobile & Accessories,Tecno,Mirpur 2,General Exterior,Unspecified,1258.0,1837.0,1380.0
+DH-MOBI-156,Mobile & Accessories,Infinix,Mirpur 2,General Exterior,Unspecified,1291.0,2186.0,1469.0
+DH-MOBI-157,Mobile & Accessories,Mobile mart BD,Mirpur 2,General Exterior,Unspecified,1231.0,2083.0,1570.3
+DH-MOBI-158,Mobile & Accessories,For our,Mirpur 2,General Exterior,Unspecified,1239.0,1639.0,1097.7
+DH-MOBI-159,Mobile & Accessories,Mobile park,Mirpur 2,General Exterior,Unspecified,1389.0,1739.0,1459.0
+DH-MOBI-160,Mobile & Accessories,Zooxon,Mirpur 2,General Exterior,Unspecified,779.0,1238.0,894.0
+DH-MOBI-161,Mobile & Accessories,Picaboo,Mirpur 2,General Exterior,Unspecified,1897.0,2794.0,1863.0
+DH-MOBI-162,Mobile & Accessories,Honor,Mirpur 2,General Exterior,Unspecified,1777.0,2794.0,1863.0
+DH-MOBI-163,Mobile & Accessories,F R Gadget view,Mirpur 2,General Exterior,Unspecified,898.0,1198.0,912.0
+DH-VARI-164,Variety Shop,Stationary shop,"Mohammadpur, Dhaka",Different Angle,White,162.0,210.0,180.0
+DH-VARI-165,Variety Shop,Shinepukur Ceramics,"Mohammadpur, Dhaka",Inside,Unspecified,1760.0,2400.0,2080.0
+DH-VARI-166,Variety Shop,Bridgestone (Tire shop),"Shyamoli, Dhaka",Outdoor,Unspecified,300.0,500.0,350.0
+DH-VARI-167,Variety Shop,Sharp AC & TV Showroom,"Shyamoli, Dhaka",General Exterior,Yellow,150.0,200.0,170.0
+DH-VARI-168,Variety Shop,Mrs Era Filling Station,"Shyamoli, Dhaka",Different Angles,White,5.0,10.0,10.0
+DH-VARI-169,Variety Shop,Stationary shops,"Kallyanpur, Dhaka",General Exterior,Unspecified,500.0,500.0,500.0
+DH-VARI-170,Variety Shop,Local Glass shops,"Kallyanpur, Dhaka",General Exterior,Unspecified,700.0,800.0,750.0
+DH-VARI-171,Variety Shop,Ma medicine (Medical items),"Kallyanpur, Dhaka",General Exterior,Unspecified,950.0,1100.0,1000.0
+DH-VARI-172,Variety Shop,Ma diya bedding,"Kallyanpur, Dhaka",General Exterior,Unspecified,339.0,684.0,515.0
+DH-VARI-173,Variety Shop,Dhaka Porda Bitan,"Kallyanpur, Dhaka",General Exterior,Unspecified,839.0,1429.0,2150.0
+DH-VARI-174,Variety Shop,Classic cartan,"Kallyanpur, Dhaka",General Exterior,Unspecified,350.0,860.0,650.0
+DH-VARI-175,Variety Shop,Mirza Electronics,"Kallyanpur, Dhaka",General Exterior,Unspecified,615.0,1039.0,815.0
+DH-VARI-176,Variety Shop,Cup shop,"Kallyanpur, Dhaka",General Exterior,Yellow,157.0,521.0,400.0
+DH-VARI-177,Variety Shop,Flower Shop,"Kallyanpur, Dhaka",General Exterior,Unspecified,750.0,855.0,800.0
+DH-VARI-178,Variety Shop,Flower Shop,"Kallyanpur, Dhaka",General Exterior,Unspecified,972.0,1331.0,1120.0
+DH-VARI-179,Variety Shop,Flower Shop,"Kallyanpur, Dhaka",General Exterior,Yellow+White,1200.0,3841.0,2100.0
+DH-VARI-180,Variety Shop,Gree Konka,"Kallyanpur, Dhaka",General Exterior,Unspecified,1000.0,1783.0,1391.5
+DH-VARI-181,Variety Shop,লিড ফার্মা-৩,"Kallyanpur, Dhaka",General Exterior,Unspecified,485.0,536.0,510.0
+DH-VARI-182,Variety Shop,Computer shop,"Kallyanpur, Dhaka",General Exterior,Unspecified,400.0,646.0,523.0
+DH-VARI-183,Variety Shop,City class shop,"Kallyanpur, Dhaka",General Exterior,Unspecified,193.0,284.0,238.0
+DH-VARI-184,Variety Shop,shop onik sign,"Kallyanpur, Dhaka",General Exterior,Unspecified,353.0,467.0,410.0
+DH-VARI-185,Variety Shop,Footpath Van (Litchi),"Kallyanpur, Dhaka",Aligned with bench,Yellow,300.0,350.0,320.0
+DH-VARI-186,Variety Shop,Local Fruit Shop,"Kallyanpur, Dhaka",Selling passage,White,463.0,525.0,470.0
+DH-VARI-187,Variety Shop,Eyecon,"Kallyanpur, Dhaka",General Exterior,White,1300.0,1800.0,1500.0
+DH-VARI-188,Variety Shop,Ideal Optics,"Kallyanpur, Dhaka",General Exterior,Unspecified,970.0,1433.0,1200.0
+DH-VARI-189,Variety Shop,Jui optics,"Kallyanpur, Dhaka",General Exterior,Unspecified,515.0,1272.0,950.0
+DH-VARI-190,Variety Shop,Eye Magic,"Kallyanpur, Dhaka",General Exterior,Unspecified,695.0,1560.0,1180.0
+DH-VARI-191,Variety Shop,Magic Vision,"Kallyanpur, Dhaka",General Exterior,Unspecified,263.3,1200.0,710.0
+DH-CARS-192,Cars & Transportation,Toyota Aqua Headlight,,2m distance,Yellow,,,1511.0
+DH-CARS-193,Cars & Transportation,Pickup Headlights,,General Exterior,Unspecified,,,1200.0
+DH-CARS-194,Cars & Transportation,KK Travels bus inside lighting system,,Sit level,Variety of colors,2.3,13.0,5.0
+DH-CARS-195,Cars & Transportation,Kalkata Drive,,General Exterior,White,125.0,268.0,200.0
+DH-CARS-196,Cars & Transportation,dhaka drive school,,General Exterior,Unspecified,305.0,597.0,480.0
+DH-CARS-197,Cars & Transportation,Oniks Motors,,General Exterior,Unspecified,417.0,627.0,520.0
+DH-SUPE-198,Super Shop & Convention Hall,Prince Bazar,"Shyamoli, Dhaka",Outdoor,"Yellow,White",100.0,247.0,130.0
+DH-SUPE-199,Super Shop & Convention Hall,Mina bazar,"Shyamoli, Dhaka",General Exterior,White,115.0,242.0,180.0
+DH-SUPE-200,Super Shop & Convention Hall,Daily Shopping,"Mirpur - 1, Dhaka",Indoor,Unspecified,185.6,1309.0,339.7
+DH-SUPE-201,Super Shop & Convention Hall,Prince Bazar,"Mirpur - 1, Dhaka",General Exterior,Unspecified,444.3,4303.0,1693.0
+DH-SUPE-202,Super Shop & Convention Hall,Bashundhara Shopping Complex,"Kawran Bazar, Dhaka",Entrance,Unspecified,1300.0,2500.0,1900.0
+DH-SUPE-203,Super Shop & Convention Hall,Bashundhara Shoping Complex,"Kawran Bazar, Dhaka",Top Floor,Unspecified,1100.0,1400.0,1280.0
+DH-SUPE-204,Super Shop & Convention Hall,Capital Tower Market,"Mirpur - 1, Dhaka",Ladies Corridor,Unspecified,812.0,1606.0,1101.0
+DH-SUPE-205,Super Shop & Convention Hall,Capital Tower Market,"Mirpur - 1, Dhaka",Middle of corridor,"Yellow,White",425.0,1736.0,1057.0
+DH-SUPE-206,Super Shop & Convention Hall,Capital Tower Market,"Mirpur - 1, Dhaka",Middle of Men's Corridor,White,150.0,400.0,270.0
+DH-SUPE-207,Super Shop & Convention Hall,Blossom Market,"Mohammadpur, Dhaka",Outdoor,"Yellow,White",42.0,50.0,47.0
+DH-SUPE-208,Super Shop & Convention Hall,Mirpur Shoping Complex,"Mirpur - 2, Dhaka",Entrance,White,111.0,475.0,317.6
+DH-VISI-209,Visitable Places & Heritages,Shahid Minar of Sohrawardy Medical College,"Shere Bangla Nagar, Dhaka",Front,White,65.0,119.0,88.0
+DH-CINE-210,Cinemas & Entertainment,Sony Square,Mirpur 1,Entrance,Yellow,25.8,68.0,37.7
+DH-CINE-211,Cinemas & Entertainment,Timepass,Mirpur 1,General Exterior,Unspecified,306.7,843.0,351.0
+DH-CINE-212,Cinemas & Entertainment,Timepass 2,Mirpur 1,General Exterior,Yellow + White,346.0,378.0,360.0
+DH-OFFI-213,Office,Mercantile Bank,"Ring Road, Mohammadpur, Dhaka",Outdoor,Yellow,30.0,128.0,80.0
+DH-OFFI-214,Office,Prime bank limited,"Mirpur Road, Dhaka",General Exterior,Unspecified,28.0,51.0,43.0

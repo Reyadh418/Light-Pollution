@@ -1,0 +1,13 @@
+experiment_id,experiment_group,configuration_tested,standoff_distance_inch,tilt_angle_deg,light_color,illuminance_min_lx,illuminance_mean_lx,illuminance_peak_lx
+A1,Group A: Mounting Orientation & Vertical Elevation,Straight Vertical Reference,5.0,90,White,602.2,632.4,632.4
+A2,Group A: Mounting Orientation & Vertical Elevation,Angled Forward Tilt,6.5,45,White,565.0,567.8,579.0
+A3,Group A: Mounting Orientation & Vertical Elevation,Elevated Horizontal Cutoff (Taller),8.0,0,White,233.6,261.7,267.3
+B1,Group B: LED Spectral Wavelength Impact,Cool White Emitter,6.0,N/A,White,283.7,448.0,455.6
+B2,Group B: LED Spectral Wavelength Impact,Warm Yellow/Orange Emitter,6.0,N/A,Yellow,374.1,390.9,455.5
+B3,Group B: LED Spectral Wavelength Impact,Short-Wavelength Blue Emitter,6.0,N/A,Blue,570.6,638.0,865.5
+C1,Group C: Optical Cutoff Shielding Geometry,Unshielded Emitter (No cover),7.0,N/A,White,208.4,329.1,334.7
+C2,Group C: Optical Cutoff Shielding Geometry,Planar Shield (2D cover),7.0,N/A,White,258.9,354.4,357.2
+C3,Group C: Optical Cutoff Shielding Geometry,Conical/Angled Shield (Triangular cover),7.0,N/A,White,270.2,374.1,388.1
+C4,Group C: Optical Cutoff Shielding Geometry,Box Cutoff Shield (Square cover),7.0,N/A,White,188.0,368.4,385.3
+D1,Group D: Architectural Window Glazing Attenuation,Standard Transparent Window Glass,2.0,N/A,White,89.0,122.3,202.0
+D2,Group D: Architectural Window Glazing Attenuation,Tinted/Attenuating Special Glass,2.0,N/A,White,48.0,65.2,73.7

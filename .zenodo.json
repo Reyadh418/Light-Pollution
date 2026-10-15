@@ -1,0 +1,39 @@
+{
+  "title": "An IoT-Based Infrastructure Model for Reducing Urban Light Pollution: Empirical Assessment and System Design in Dhaka",
+  "description": "<p>This repository provides the empirical datasets, hardware specifications, embedded control logic, reproduction scripts, and manuscript for the study: <strong>An IoT-Based Infrastructure Model for Reducing Urban Light Pollution: Empirical Assessment and System Design in Dhaka</strong> by Md Reyad Hasan and Ishrat Jahan Riya.</p><p><strong>Key Contents:</strong></p><ul><li><strong>Empirical Field Audit Dataset:</strong> In-situ ground-level photometric measurements across 13 distinct functional urban sectors in Dhaka, Bangladesh (including fashion retail, electronics corridors, transit nodes, residential areas, and hospitals). Available as standardized open CSV (<code>data/dhaka_photometric_survey.csv</code>) and archival multi-sheet Excel workbook (<code>data/raw/Database (Light Pollution).xlsx</code>).</li><li><strong>Benchtop Experimental Dataset:</strong> 12 controlled benchtop luminaire trials isolating luminaire tilt orientation, vertical elevation, LED spectral wavelength, optical cutoff shielding geometry, and architectural window glazing attenuation (<code>data/benchtop_experiments.csv</code>).</li><li><strong>IoT Hardware Architecture &amp; Firmware Design:</strong> Engineering specifications for a vertically stratified four-zone smart streetlight node powered by the dual-core ESP32-S3 Sense microcontroller (utilizing SIMD vector acceleration). Features multi-modal sensor fusion across 7 modalities: OV2640 edge camera executing quantized TinyML vision models (YOLOv8-nano/MobileNet), HB100 microwave Doppler radar, sidewalk-directed PIR motion array, BH1750 ambient light sensor, BME280 atmospheric module, DS3231 TCXO real-time clock, and INA219 power telemetry monitor.</li><li><strong>Sub-10 ms ESP-NOW Mesh Protocol:</strong> Connectionless OSI Layer-2 peer-to-peer communication framework broadcasting target velocity and heading to awaken a predictive &lsquo;rolling luminescence bubble&rsquo; 30&ndash;40&nbsp;m ahead of oncoming vehicles, restricting vehicular slip to 10&ndash;13&nbsp;cm.</li><li><strong>Deterministic Priority Arbitration Hierarchy:</strong> Six-tier conflict-resolution matrix and edge-case state machine enforcing automated post-midnight 50% skyglow curfews, weather-adaptive safety scaling, and a 100% full-beam fail-safe fallback.</li><li><strong>Reproduction Scripts:</strong> Turnkey Python scripts (<code>scripts/reproduce_tables.py</code>) regenerating summary statistics for all tables in the paper.</li><li><strong>Manuscript Source:</strong> Complete LaTeX source (<code>paper/finalPaper.tex</code>) and publication-ready PDF (<code>paper/Light_Pollution.pdf</code>).</li></ul>",
+  "creators": [
+    {
+      "name": "Hasan, Md Reyad",
+      "affiliation": "Government Science College, Dhaka, Bangladesh"
+    },
+    {
+      "name": "Riya, Ishrat Jahan",
+      "affiliation": "Mavenwood International School, Dhaka, Bangladesh"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "keywords": [
+    "Light Pollution",
+    "Smart Streetlighting",
+    "Artificial Light at Night (ALAN)",
+    "Edge AI",
+    "Sensor Fusion",
+    "ESP-NOW Mesh",
+    "ESP32-S3",
+    "Urban Sustainability",
+    "Dhaka",
+    "Photometry",
+    "TinyML",
+    "Energy Conservation",
+    "Doppler Radar"
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/Reyadh418/Light-Pollution",
+      "relation": "isSupplementTo"
+    }
+  ]
+}
